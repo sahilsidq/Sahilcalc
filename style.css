@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    padding: 0%;
+    text-align: center;
+    background-color: #011627;
+    color: aliceblue; 
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+   
+}
+    
+    h1{
+    font-size: 50px;
+   
+}
+input{
+    width: 70px;
+    height: 50px;
+    font-size: 35px;
+    border-radius: 15px;
+    margin: 5px;
+
+}
+.btn:hover{
+    background-color: #5994c4;
+    cursor: pointer;
+}
